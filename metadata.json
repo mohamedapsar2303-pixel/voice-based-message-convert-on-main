@@ -1,0 +1,5 @@
+{
+  "name": "VoxCover",
+  "description": "Create beautiful, shareable visual covers for your voice messages using AI transcription and styling.",
+  "requestFramePermissions": ["microphone"]
+}
